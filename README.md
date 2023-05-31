@@ -1,4 +1,4 @@
-### This is the place where I'm hiding from my family!
+### This is the place where I'm hiding from my family :)
 
 I’m the master of product management and the world's friendliest "non-coding coder." I’m armed with a pocket-sized dictionary of programming jargon, bravely ventured into the land of curly braces, syntax errors, and endless debugging sessions. I can't resist the allure of the programming world and  while my understanding of programming may be a mystery wrapped in a compiler error, my enthusiasm for the topic is a constant source of wonder and excitement.
 
