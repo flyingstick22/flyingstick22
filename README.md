@@ -2,7 +2,7 @@
 
 I can't resist the allure of the programming world and  while my understanding of programming may be a mystery wrapped in a compiler error, my enthusiasm for the topic is a constant source of wonder and excitement.
 
-- 🌱 I’m currently learning Docker & DevOps
+- 🌱 I’m currently learning Docker & DevOps and Cyber Security
 
 
 <!--
